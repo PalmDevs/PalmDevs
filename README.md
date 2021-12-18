@@ -28,6 +28,7 @@ My projects are usually private; I was working on a multi-purpose Discord bot, b
 
 ### Thank you 💖
 Thank you for taking your time to read my about me page.  
-If you have any further questions, come talk to me in DMs: **Palm#0683**
+If you have any further questions, come talk to me in DMs: **Palm#0683**  
+
 ---
 *Last edited: 2021/12/19 (exactly 12 AM)*
