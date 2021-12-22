@@ -2,7 +2,7 @@
 Hello there!
 
 ### About Me 👦🏻
-My name is Palm and I am 13 years old (as in 2021/12/18).  
+My name is Palm and I am 13 years old (as in 2021/12/22).  
 I'm from Thailand and I have experience with Javascript and Typescript.  
 I'm also a full stack developer, who uses React and ExpressJS.  
 
@@ -31,5 +31,5 @@ Thank you for taking your time to read my about me page.
 If you have any further questions, come talk to me in DMs: **Palm#0683**  
 
 ---
-*All dates that are used in this file are formatted as YYYY/MM/DD*
+*All dates that are used in this file are formatted as YYYY/MM/DD*  
 *Last edited: 2021/12/22 23:44 UTC+7*
