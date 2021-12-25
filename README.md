@@ -1,8 +1,8 @@
 # Hello there! 👋
-Hello there!
+Hello there, you seem to have discovered my about me page!
 
 ### About Me 👦🏻
-My name is Palm and I am 13 years old (as in 2021/12/22).  
+My name is Palm and I am 13 years old (as in 2021/12/25).  
 I'm from Thailand and I have experience with Javascript and Typescript.  
 I'm also a full stack developer, who uses React and ExpressJS.  
 
@@ -28,8 +28,13 @@ My projects are usually private; I was working on a multi-purpose Discord bot, b
 
 ### Thank you 💖
 Thank you for taking your time to read my about me page.  
-If you have any further questions, come talk to me in DMs: **Palm#0683**  
+I unfortunately do not accept any friend requests. If you have any questions, join [this Discord server](https://discord.com/invite/programming) which I am active on.
 
+### Contact 📝
+ * Discord: Palm#0683
+ * Email: palmpasuthorn@gmail.com
+ * Twitter: @palmminecraft
+ * Website: (none)
 ---
 *All dates that are used in this file are formatted as YYYY/MM/DD*  
-*Last edited: 2021/12/22 23:44 UTC+7*
+*Last edited: 2021/12/25 13:29 UTC+7*
