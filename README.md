@@ -32,6 +32,3 @@ Thank you for taking the time to read all of this! I appreciate it!
  * Discord: [Palm#0683](https://discord.com/users/629368283354628116)
  * Email: palmpasuthorn@gmail.com
  * Website: (Soon TM)
----
-*All dates that are used in this file are formatted as either YYYY/MM/DD or DD/MM/YYYY*  
-*Last edited: 2022/07/17 21:50 (9:50 PM)*
