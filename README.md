@@ -1,33 +1,60 @@
-# Hello there! 👋
-Hello there, you've just discovered my about me page!
+<p align="center"><img width="25%" height="25%" alt="The Palm logo" src="assets/Hero.png" /></p>
+<h1 align="center">Hey there, I'm Palm!</h1>
+<p align="center">I am a 14-year-old full-stack developer who is interested in UI/UX, backend security, and automation.</p>
 
-### About Me 👦🏻
-My name is Palm (Pasuthorn Buala) and I am 14 years old.  
-I'm from Thailand and I have experience with both JavaScript and TypeScript.  
-I'm also a full-stack engineer and a UI designer, who uses React/Next.js *(frontend)*, Fastify *(backend)* and Figma *(UI designing)*.  
+<br />
 
-### Experience ✨
-I started programming when I was 11. I didn't take it too seriously and was just playing around with some code.  
-Then as I was turning 12, I start to do Discord bot programming with JavaScript. It was a rogue start, though I managed to continue doing so!  
-I started to take it more seriously from there on and learned TypeScript, then Express.js, React, Fastify, and Next.js!  
-It was a fun journey. I've discovered a lot of knowledge which I'd have probably never get to have if I didn't have the motivation to do so.  
+## 🖥️ Technologies
+These are technologies I'm currently using or have used in the past.
 
-### Motivation 💦
-When I started at first, I have no motivation at all. I was just playing around with some code. If it works, it works. If it doesn't, it just doesn't. 
-Later then, I was setting up a Discord server and wished to program my own bot to do things, and that's when I started to learn JavaScript.  
-At first, I was just copy-pasting code. Which is a really bad practice, but eventually I learned how to read documentation.
-I began reading more documentation, which I thought was useless at first. But as I read more of it, I think they are good use now. And here we are, me slamming my head into the keyboard trying to figure out why TypeScript is complaining.
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img width="48px" height="48px" alt="The JavaScript logo" src="assets/technologies/JavaScript.png" />
+</a>
+<a href="https://www.typescriptlang.org">
+    <img width="48px" height="48px" alt="The TypeScript logo" src="assets/technologies/TypeScript.png" />
+</a>
+<a href="https://react.dev/">
+    <img width="48px" height="48px" alt="The React logo" src="assets/technologies/React.svg" />
+</a>
+<a href="https://fastify.io/">
+    <img width="48px" height="48px" alt="The Fastify logo" src="assets/technologies/Fastify.svg" />
+</a>
+<a href="https://figma.com/">
+    <img width="48px" height="48px" alt="The Figma logo" src="assets/technologies/Figma.svg" />
+</a>
+<a href="https://github.com/features/actions">
+    <img width="48px" height="48px" alt="The GitHub Actions logo" src="assets/technologies/GitHubActions.svg" />
+</a>
 
-### Projects 📑
-Though I haven't done many public projects, I can list them all here.  
- - [ReVanced](https://github.com/revanced): I contribute to some of ReVanced's source. ReVanced is a project that continues the legacy of Vanced
- - [NRVM](https://github.com/PalmDevs/nrvm): Just another ReVanced builder
- - [Shidscript](https://github.com/shidscript/shidscript): Started with a joke, grew into ideas, and it isn't here yet! (paused)
+<br />
 
-### Thank you 💖
-Thank you for taking the time to read all of this! I appreciate it!
+## 👨🏻‍💻 Projects
 
-### Contact 📝
- * Discord: [Palm#0683](https://discord.com/users/629368283354628116)
- * Email: palmpasuthorn@gmail.com
- * Website: (Soon TM)
+These are my projects or contributions towards open-source projects sorted by how many contributions I’ve made to them and how popular, useful, or important they are.
+
+<br />
+
+<img align="right" width="160px" height="160px" alt="The icon of my website" src="assets/projects/Website.png" />
+
+### My Website
+My own website is a way for me to communicate my current progress, knowledge, personality, and my status to the whole world! **It will launch soon!**
+
+<br />
+<br />
+
+<img align="left" width="160px" height="160px" alt="ReVanced Manager application displayed on a hand-held device" src="assets/projects/ReVanced.png" />
+
+### [ReVanced](https://github.com/revanced)
+ReVanced is a modular patcher for apps such as YouTube. This project was born out of Vanced's discontinuation. I’ve contributed to this project many times before.
+
+<br />
+<br />
+<br />
+<br />
+
+## 📄 Contact
+You can always [email me](mailto:palmpasuthorn@gmail.com) or talk with me on [Discord](https://discord.com/users/629368283354628116). I usually don't accept friend requests on Discord, so you will need to join servers that I'm in and DM me from there.
+
+### 🏘️ Matual Discord Servers
+- [ReVanced](https://discord.gg/revanced)
+- [The Programmer's Hangout](https://discord.gg/programming)
