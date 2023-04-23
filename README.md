@@ -55,6 +55,6 @@ ReVanced is a modular patcher for apps such as YouTube. This project was born ou
 ## 📄 Contact
 You can always [email me](mailto:palmpasuthorn@gmail.com) or talk with me on [Discord](https://discord.com/users/629368283354628116). I usually don't accept friend requests on Discord, so you will need to join servers that I'm in and DM me from there.
 
-### 🏘️ Matual Discord Servers
+### 🏘️ Mutual Discord Servers
 - [ReVanced](https://discord.gg/revanced)
 - [The Programmer's Hangout](https://discord.gg/programming)
