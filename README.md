@@ -33,6 +33,7 @@ These are technologies I'm currently using or have used in the past.
 These are my projects or contributions towards open-source projects sorted by how many contributions I’ve made to them and how popular, useful, or important they are.
 
 <br />
+<br />
 
 <img align="right" width="160px" height="160px" alt="The icon of my website" src="assets/projects/Website.png" />
 
@@ -49,8 +50,8 @@ ReVanced is a modular patcher for apps such as YouTube. This project was born ou
 
 <br />
 <br />
-<br />
-<br />
+
+
 
 ## 📄 Contact
 You can always [email me](mailto:palmpasuthorn@gmail.com) or talk with me on [Discord](https://discord.com/users/629368283354628116). I usually don't accept friend requests on Discord, so you will need to join servers that I'm in and DM me from there.
