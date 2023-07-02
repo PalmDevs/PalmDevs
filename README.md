@@ -1,6 +1,6 @@
 <p align="center"><img width="25%" height="25%" alt="The Palm logo" src="assets/Hero.png" /></p>
 <h1 align="center">Hey there, I'm Palm!</h1>
-<p align="center">I am a 14-year-old full-stack developer who is interested in UI/UX, backend security, and automation.</p>
+<p align="center">I am a 15-year-old full-stack developer who is interested in UI/UX, security, and automation <i>(CI/CD)</i>.</p>
 
 <br />
 
@@ -35,22 +35,20 @@ These are my projects or contributions towards open-source projects sorted by ho
 <br />
 <br />
 
-<img align="right" width="160px" height="160px" alt="The icon of my website" src="assets/projects/Website.png" />
-
-### My Website
-My own website is a way for me to communicate my current progress, knowledge, personality, and my status to the whole world! **It will launch soon!**
-
-<br />
-<br />
-
 <img align="left" width="160px" height="160px" alt="ReVanced Manager application displayed on a hand-held device" src="assets/projects/ReVanced.png" />
 
 ### [ReVanced](https://github.com/revanced)
-ReVanced is a modular patcher for apps such as YouTube. This project was born out of Vanced's discontinuation. I’ve contributed to this project many times before.
+ReVanced is a modular patcher for apps such as YouTube. This project was born out of Vanced's discontinuation. I’ve contributed to this project many times.
 
 <br />
 <br />
+<br />
 
+### Other projects coming soon!
+I have some ideas...
+
+<br />
+<br />
 
 
 ## 📄 Contact
