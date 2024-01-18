@@ -1,7 +1,7 @@
 <p align="center"><img width="25%" height="25%" alt="The Palm logo" src="assets/Hero.png" /></p>
 <h1 align="center">Hey there, I'm Palm!</h1>
-<p align="center">I am a 15-year-old full-stack developer and UI/UX designer who is interested in security and automation <i>(🤖 robots everywhere 🤖)</i>.</p>
-<p align="center">I am currently studying in-depth UX and learning to to develop apps with <a href="https://reactnative.dev">React Native</a>.</p>
+<p align="center">I am a **self-taught** 15-year-old full-stack developer and UI/UX designer who is interested in security and automation <i>(🤖 robots everywhere 🤖)</i>.</p>
+<p align="center">I am currently learning to to develop apps with <a href="https://reactnative.dev">React Native</a>.</p>
 
 <br />
 
@@ -39,16 +39,7 @@ These are my projects or contributions towards open-source projects sorted by ho
 <br />
 <br />
 
-<img align="left" width="160px" height="160px" alt="ReVanced Manager application displayed on a hand-held device" src="assets/projects/RNM3.png" />
-
-### [React Native Material 3](https://github.com/PalmDevs/react-native-material3)
-[Material Design 3](https://m3.material.io) components library for [React Native](https://reactnative.dev) with great support for interactivity out of the box.
-
-<br />
-<br />
-<br />
-
-<img align="right" width="160px" height="160px" alt="ReVanced Manager application displayed on a hand-held device" src="assets/projects/ReVanced.png" />
+<img align="left" width="160px" height="160px" alt="ReVanced Manager application displayed on a hand-held device" src="assets/projects/ReVanced.png" />
 
 ### [ReVanced](https://github.com/revanced)
 ReVanced is a modular patcher for apps such as YouTube. This project was born out of Vanced's discontinuation. I’ve contributed to this project many times.
@@ -65,8 +56,4 @@ I have some ideas...
 
 
 ## 📄 Contact
-You can always [email me](mailto:palmpasuthorn@gmail.com) or talk with me on [Discord](https://discord.com/users/629368283354628116). I usually don't accept friend requests on Discord, so you will need to join servers that I'm in and DM me from there.
-
-### 💬 Servers I'm active in
-- [The Programmer's Hangout](https://discord.gg/programming)
-- [ReVanced](https://discord.gg/revanced)
+You can always [email me](mailto:PalmDevelops+GH@gmail.com). I read emails and clear them out daily.
