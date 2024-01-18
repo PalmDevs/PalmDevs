@@ -1,6 +1,6 @@
-<p align="center"><img width="25%" height="25%" alt="The Palm logo" src="assets/Hero.png" /></p>
+<p align="center"><img width="25%" height="25%" alt="The Palm logo" src="https://images.weserv.nl/?url=github.com/PalmDevs.png?h=400&w=400&fit=cover&mask=circle&maxage=1d" style="border-radius: 50%" /></p>
 <h1 align="center">Hey there, I'm Palm!</h1>
-<p align="center">I am a **self-taught** 15-year-old full-stack developer and UI/UX designer who is interested in security and automation <i>(🤖 robots everywhere 🤖)</i>.</p>
+<p align="center">I am a <strong>self-taught</strong> 15-year-old full-stack developer and UI/UX designer who is interested in security and automation <i>(🤖 robots everywhere 🤖)</i>.</p>
 <p align="center">I am currently learning to to develop apps with <a href="https://reactnative.dev">React Native</a>.</p>
 
 <br />
@@ -39,10 +39,10 @@ These are my projects or contributions towards open-source projects sorted by ho
 <br />
 <br />
 
-<img align="left" width="160px" height="160px" alt="ReVanced Manager application displayed on a hand-held device" src="assets/projects/ReVanced.png" />
+<img align="left" width="160px" height="160px" alt="ReVanced Manager application displayed on a hand-held device" src="https://images.weserv.nl/?url=raw.githubusercontent.com/ReVanced/revanced-branding/main/assets/revanced-logo/revanced-logo.svg?h=500&w=500&fit=cover&mask=circle&maxage=1d" />
 
 ### [ReVanced](https://github.com/revanced)
-ReVanced is a modular patcher for apps such as YouTube. This project was born out of Vanced's discontinuation. I’ve contributed to this project many times.
+ReVanced is a modular patcher for apps such as YouTube. This project was born out of Vanced's discontinuation. I’m a team member of this project!
 
 <br />
 <br />
