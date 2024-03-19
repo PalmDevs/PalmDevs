@@ -17,7 +17,7 @@ These are technologies I'm currently using or have used in the past.
 <a href="https://react.dev/">
     <img width="48px" height="48px" alt="React" src="assets/technologies/React.svg" />
 </a>
-<a href="https://react.dev/">
+<a href="https://reactnative.dev/">
     <img width="48px" height="48px" alt="React Native" src="assets/technologies/ReactNative.svg" />
 </a>
 <a href="https://fastify.io/">
