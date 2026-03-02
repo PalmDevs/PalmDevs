@@ -4,13 +4,13 @@
 <br>
 <p align="center">To learn more about me, check out <a href="https://palmdevs.me">my website</a>.</p>
 
-<br />
-<br />
+<br>
+<br>
 
 ## You might know me from...
 
-<br />
-<br />
+<br>
+<br>
 
 <img align="left" width="128px" height="128px" alt="ReVanced" src="https://images.weserv.nl/?url=raw.githubusercontent.com/ReVanced/revanced-branding/main/assets/revanced-logo/revanced-logo.svg?h=500&w=500&fit=cover&mask=circle&maxage=1d" />
 
@@ -22,7 +22,7 @@ I’m a maintainer of this project.
 <br>
 <br>
 
-<img align="right" width="128px" height="128px" alt="Revenge" src="https://raw.githubusercontent.com/revenge-mod/revenge-branding/main/assets/revenge-mark/revenge-mark-black.svg" />
+<img align="right" width="128px" height="128px" alt="Revenge" src="https://images.weserv.nl/?url=github.com/revenge-mod.png?h=500&w=500&fit=cover&mask=circle&maxage=1d" />
 
 ### [Revenge](https://github.com/revenge-mod)
 
@@ -38,4 +38,3 @@ I’m the founder of this project!
 
 Free and open-source data backup solution for Android devices.
 I helped redesigning the app, my work is on version 2.
-
