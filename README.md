@@ -30,6 +30,7 @@ Revenge is a client modification for Discord Android, allowing you to use plugin
 I’m the founder of this project!
 
 <br>
+<br>
 
 <img align="left" width="128px" height="128px" alt="DataBackup" src="https://images.weserv.nl/?url=raw.githubusercontent.com/XayahSuSuSu/Android-DataBackup/refs/heads/main/fastlane/metadata/android/en-US/images/icon.png?h=500&w=500&fit=cover&mask=circle&maxage=1d" />
 
@@ -37,3 +38,4 @@ I’m the founder of this project!
 
 Free and open-source data backup solution for Android devices.
 I helped redesigning the app, my work is on version 2.
+
